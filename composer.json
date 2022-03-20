@@ -1,0 +1,32 @@
+{
+    "name": "shynne109/laravel-elastic-email-v4",
+    "description": "Package to send emails with attachments via an Elastic Email Mailer.",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "elastic",
+        "email",
+        "v4",
+        "elastic email",
+        "shynne"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adedoyin Shina",
+            "email": "info@puredynamicsolution.com"
+        }
+    ],
+    "support": {
+        "email": "info@puredynamicsolution.com"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Shynne\\LaravelElasticEmailV4\\": "src/"
+        }
+    },
+    "require": {
+        "laravel/framework": "~8.12"
+    }
+}
