@@ -1,5 +1,5 @@
 {
-    "name": "shynne109/laravel-elastic-email-v4",
+    "name": "shynne/laravel-elastic-email-v4",
     "description": "Package to send emails with attachments via an Elastic Email Mailer.",
     "type": "library",
     "keywords": [
